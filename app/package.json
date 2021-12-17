@@ -1,0 +1,29 @@
+{
+  "name": "quantme-modeler",
+  "version": "4.4.0",
+  "description": "QuantME Modeling and Transformation Framework based on the Camunda Modeler",
+  "private": true,
+  "main": "prod.js",
+  "author": {
+    "name": "UST-QuAntiL",
+    "url": "https://github.com/UST-QuAntiL"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@sentry/node": "^5.15.5",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.1",
+    "form-data": "^2.3.1",
+    "glob": "^7.0.3",
+    "min-dash": "^3.4.0",
+    "mri": "^1.1.4",
+    "node-fetch": "^2.1.2",
+    "parents": "^1.0.1"
+  },
+  "homepage": "https://github.com/UST-QuAntiL/QuantME-TransformationFramework",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/UST-QuAntiL/QuantME-TransformationFramework"
+  }
+}
